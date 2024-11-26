@@ -1,0 +1,21 @@
+{
+  "name": "tine-groupware/sddl-parsesr",
+  "type": "library",
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "authors": [
+    {
+      "name": "Paul Mehrer",
+      "email": "p.mehrer@metaways.de"
+    }
+  ],
+  "require": {
+    "php": "8.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Tine\\SDDL_Parser\\": "src/"
+    }
+  }
+}
