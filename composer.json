@@ -1,5 +1,5 @@
 {
-  "name": "tine-groupware/sddl-parsesr",
+  "name": "tine-groupware/sddl-parser",
   "type": "library",
   "license": [
     "BSD-3-Clause"
